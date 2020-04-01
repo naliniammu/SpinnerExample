@@ -34,7 +34,6 @@ public class MainActivity extends AppCompatActivity  {
 
     }
 
-    /*with reflection*/
 
     public void addListenerOnSpinnerItemSelection() {
         try {
